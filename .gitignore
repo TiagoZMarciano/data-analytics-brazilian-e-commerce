@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.tmp
+*.log
+*.bak
+*.cache
+.DS_Store
+Thumbs.db
+requirements.txt
+dashboard-prototype-olist.html
+olist-bi-styleguide-poc.html
+
+# Power BI local/cache artifacts
+*.pbitmp
+*.AnalysisServicesWorkspace
+HTML.Content.STANDALONE.Sample.Workbook*.pbix
+htmlContent*.pbix
+
+# Keep final portfolio artifacts versioned intentionally:
+# - Dashboard of Brazilian E-Commerce by Olist.pbix
+# - Dashboard of Brazilian E-Commerce by Olist.pdf
+# - Modelo_Semantico_Dashboard.jpg
+# - STANDALONEhtmlContent*.pbiviz
