@@ -17,3 +17,8 @@ Current semantic model screenshot is stored at the repository root:
 `Modelo_Semantico_Dashboard.jpg`
 
 It is referenced directly in the main `README.md`.
+
+## Current Files
+
+- `dashboard-cover.png`
+- `executive-overview-page.png`

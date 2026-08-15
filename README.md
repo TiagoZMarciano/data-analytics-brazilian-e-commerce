@@ -4,6 +4,18 @@ Dashboard executivo desenvolvido em Power BI para analisar vendas, categorias, c
 
 O projeto foi construído como um produto analítico de ponta a ponta: ingestão e relacionamento das tabelas, criação de medidas DAX, estruturação de páginas de negócio, design de interface em HTML/CSS dentro do Power BI e exportação final para apresentação.
 
+## Preview Do Dashboard
+
+### Capa
+
+![Capa do dashboard](assets/screenshots/dashboard-cover.png)
+
+### Visão Executiva
+
+![Página de visão executiva](assets/screenshots/executive-overview-page.png)
+
+### Modelo Semântico
+
 ![Modelo semântico do dashboard](Modelo_Semantico_Dashboard.jpg)
 
 ## Visão Geral
@@ -27,7 +39,7 @@ A análise responde perguntas como:
 | [Dashboard of Brazilian E-Commerce by Olist.pdf](<Dashboard of Brazilian E-Commerce by Olist.pdf>) | Exportação do dashboard em PDF |
 | [Modelo_Semantico_Dashboard.jpg](Modelo_Semantico_Dashboard.jpg) | Print do modelo semântico desenvolvido |
 | [STANDALONEhtmlContent443BE3AD55E043BF878BED274D3A6855.1.6.0.0.pbiviz](STANDALONEhtmlContent443BE3AD55E043BF878BED274D3A6855.1.6.0.0.pbiviz) | Visual customizado usado para renderizar HTML no Power BI |
-| [dashboard-prototype-olist.html](dashboard-prototype-olist.html) | Protótipo inicial usado como referência visual |
+| `assets/screenshots/` | Imagens exportadas do relatório para apresentação no GitHub |
 | `data/` | Tabelas CSV do dataset Olist |
 
 ## Documentação Técnica
